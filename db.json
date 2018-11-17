@@ -12,7 +12,7 @@
     "name": "typicode"
   },
   "users": [
-  { "id": 1, "name": "Isidro", "email": "isihergre@gmail.com"},
-  { "id": 2, "name": "Salma", "email": "salmasaurio@gmail.com"}
-  ],
+	  { "id": 1, "name": "Isidro", "email": "isihergre@gmail.com" },
+	  { "id": 2, "name": "Salma", "email": "salmasaurio@gmail.com" }
+  ]
 }
